@@ -1,0 +1,92 @@
+section {
+	a {
+		cursor: pointer;
+	}
+
+	.jumbotron {
+			background-color: #333;
+			margin: 20px;
+			color: white;
+			padding: 17px;
+			min-height: 85px;
+			h2 {
+				font-size: 1.4rem !important;
+			}
+			p {
+				font-size: 1.1rem;
+				margin-top: 7px;
+				&.loggedAs {
+						color: green !important;
+				}
+				&.displayCat {
+					color: indianred !important;
+				}
+			}
+	}
+
+	h2 {
+		font-size: 1.7rem !important;
+	}
+	.marketing {
+		.paidItems {
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: space-around;
+			align-items: center;
+		}
+		.thisPaidAd {
+			background-color: $backgroundAds;
+			padding: 10px;
+			border-radius: 6px;
+			margin-bottom: 25px;
+			text-align: center;
+			width: 420px;
+			height: 540px;
+			overflow: scroll;
+			* {
+				margin-bottom: 9px;
+			}
+		}
+		.alert-danger {
+			text-align: center;
+			font-size: 1.2rem;
+			margin: 25px auto;
+		}
+		.freeAds {
+			width: 90%;
+			margin-bottom: 35px;
+			.featurette {
+				margin-bottom: 37px;
+				background-color: $backgroundAds;
+				padding: 12px;
+				border-radius: 4px;
+				.featurette-heading {
+					margin-top: 25px !important;
+				}
+				img {
+					width: 100%;
+					max-width: 470px;
+					max-height: 370px;
+				}
+				* {
+					margin-bottom: 9px;
+				}
+			}
+		}
+	}
+		.thisPrice {
+			color: #468415;
+			font-size: 1.3rem;
+			font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		}
+		.registerDate {
+			color: salmon;
+			font-size: .9rem;
+		}
+		.carousel-caption .backgroundMePlease {
+			padding: 16px;
+			background-color: rgba($color: #000000, $alpha: .2);
+		}
+		// .footer {
+		// }
+ }

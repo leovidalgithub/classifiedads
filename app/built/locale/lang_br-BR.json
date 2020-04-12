@@ -1,0 +1,57 @@
+{
+	"header": {
+		"navbar": {
+			"home": "Home",
+			"about": "Sobre",
+			"contact": "Contato",
+			"categories": "Categorias",
+			"logout": "Sair"
+		}
+	},
+	"cats": {
+		"category": "Categoria",
+		"All": "Tudo",
+		"Cars": "Carros",
+		"Education": "Educação",
+		"Furniture": "Mobília",
+		"Jobs": "Empregos",
+		"Pets": "Animais",
+		"Real Estate": "Imobiliária",
+		"Services": "Serviços",
+		"Sports": "Esportes",
+		"Technology": "Tecnologia"
+	},
+	"slideshows": {
+		"slide1": {
+			"title": "Uma nova gama de não convencionais",
+			"content": "Por que comprometer-se quando você pode viver a vida do seu jeito, livre de restrições! Junte-se ao nosso movimento e juntos promovamos uma visão comum de uma alimentação saudável e saborosa. Um mundo de liberdade está chamando e temos muito disso reservado. Você está pronto?",
+			"button": "Inscreva-se hoje"
+		},
+		"slide2": {
+			"title": "Visite e explore a natureza",
+			"content": "Prados abertos, florestas maduras e calçadões conectam exposições naturais interativas onde os animais nativos residem: ursos negros, leões da montanha, aves de rapina, lontras de rio, linces e muito mais. Passe um dia - faça um passeio autoguiado pela trilha de exposições de animais e trilhas para caminhadas, desfrute de um cruzeiro no Squam Lake, aprecie a beleza de Kirkwood Gardens e faça compras naturalmente na Howling Coyote Gift Shop.",
+			"button": "Saber mais"
+		},
+		"slide3": {
+			"title": "Onde encontrar Leonardo. O segredo por trás da arte",
+			"content": "Leonardo foi fundado em 1968 em Paris pelo artista cinético e pioneiro astronáutico Frank Malina, que viu a necessidade de uma revista servir como um canal internacional de comunicação entre artistas, com ênfase nos escritos de artistas que usam a ciência e desenvolvem tecnologias em seus trabalhos. Publicado pelo The MIT Press e liderado pelo editor executivo Roger Malina, Leonardo se tornou a principal revista internacional revisada por pares sobre o uso da ciência e tecnologia contemporânea nas artes e na música e, cada vez mais, a aplicação e influência das artes e humanidades na Ciência e Tecnologia.",
+			"button": "Navegar na galeria"
+		}
+	},
+	"jumbo": {
+		"paidads": "Anúncios pagos",
+		"freeads": "Anúncios grátis",
+		"displaying": "Exibindo Categoria"
+	},
+	"share": {
+		"user": "Usuário",
+		"viewdetails": "Ver detalhes",
+		"nopaidads": "Não há anúncios pagos para mostrar...",
+		"nofreeads": "Não há anúncios grátis para mostrar..."
+	},
+	"footer": {
+		"backtotop": "De volta ao topo",
+		"privacy": "Privacidade",
+		"terms": "Termos"
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"header": {
+		"navbar": {
+			"home": "Home",
+			"about": "About",
+			"contact": "Contact",
+			"categories": "Categorias",
+			"logout": "Logout"
+		}
+	},
+	"cats": {
+		"category": "Category",
+		"All": "All",
+		"Cars": "Cars",
+		"Education": "Education",
+		"Furniture": "Furniture",
+		"Jobs": "Jobs",
+		"Pets": "Pets",
+		"Real Estate": "Real Estate",
+		"Services": "Services",
+		"Sports": "Sports",
+		"Technology": "Technology"
+	},
+	"slideshows": {
+		"slide1": {
+			"title": "A New Range of Unconventional",
+			"content": "Why compromise when you can live life your way, FREE of restrictions! Join our movement and together let’s promote a common vision of healthy and tasty eating. A world of freedom is calling and we’ve got so much of it in store. Are you ready?",
+			"button": "Sign up today"
+		},
+		"slide2": {
+			"title": "Visit and Explore The Nature",
+			"content": "Open meadows, mature forests, and marsh boardwalks connect interactive natural exhibits where native animals reside: black bears, mountain lions, raptors, river otters, bobcats, and more. Spend a day - take a self-guided tour of the animal exhibit trail and hiking trails, enjoy a Squam Lake Cruise, take in the beauty of Kirkwood Gardens, and shop naturally in the Howling Coyote Gift Shop.",
+			"button": "Learn More"
+		},
+		"slide3": {
+			"title": "Where to Find Leonardo. The Secret behind the Art",
+			"content": "Leonardo was founded in 1968 in Paris by kinetic artist and astronautical pioneer Frank Malina who saw the need for a journal to serve as an international channel of communication among artists, with emphasis on the writings of artists who use science and developing technologies in their work. Published by The MIT Press and led by executive editor Roger Malina, Leonardo has become the leading international peer-reviewed journal on the use of contemporary science and technology in the arts and music and, increasingly, the application and influence of the arts and humanities on science and technology.",
+			"button": "Browse gallery"
+		}
+	},
+	"jumbo": {
+		"paidads": "Paid Ads",
+		"freeads": "Free Ads",
+		"displaying": "Displaying Category"
+	},
+	"share": {
+		"user": "User",
+		"viewdetails": "View Details",
+		"nopaidads": "There is no Paid Ads to show...",
+		"nofreeads": "There is no Free Ads to show..."
+	},
+	"footer": {
+		"backtotop": "Back to top",
+		"privacy": "Privacy",
+		"terms": "Terms"
+	}
+}
