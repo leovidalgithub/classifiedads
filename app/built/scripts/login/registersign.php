@@ -3,8 +3,8 @@
 	include("openssl_encrypt.php");
 
 	include_once 'built/scripts/dbConnect.php';
-	include_once 'built\scripts\class.userstype.php';
-	include_once 'built\scripts\login\class.users.php';
+	include_once 'built/scripts/class.userstype.php';
+	include_once 'built/scripts/login/class.users.php';
 
 	$errorDisplayed="";
 	$username="";
