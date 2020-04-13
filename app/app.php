@@ -141,8 +141,7 @@ if (!isset($_SESSION['username'])) {
 				</div>
 			</div>
 			<div class="container">
-				<div ng-hide="filteredPaidAds.length" class="alert alert-danger" role="alert">{{'share.nopaidads' | translate}}div>
-				</div>
+				<div ng-hide="filteredPaidAds.length" class="alert alert-danger" role="alert">{{'share.nopaidads' | translate}}</div>
 
 				<!-- START THE FEATURETTES -->
 
@@ -162,7 +161,6 @@ if (!isset($_SESSION['username'])) {
 						<div class="col-md-7" ng-class-even="'col-md-push-5'">
 							<h2 class="featurette-heading">{{ad.name}}</h2>
 							<p class="lead">{{ad.description}}</p>
-							<h3>{{ad.cat_id}}-{{selectedCategory.id}}</h3>
 							<h3>{{'cats.category' | translate}} : {{ad.cat_name}}</h3>
 							<p class="registerDate">{{ad.reigsterDate | date}}</p>
 							<p ng-hide="ad.price==0" class="thisPrice">{{ad.price | currency}}</p>
