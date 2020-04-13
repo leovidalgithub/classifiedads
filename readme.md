@@ -7,7 +7,7 @@ PHP Classified Ads App
 
 ---
 
-Demo App developed using NodeJS, NPM, Gulp, JavaScript, PHP, MySql, AngularJS, Bootstrap.
+Demo App developed using NodeJS, NPM, Gulp, JavaScript, PHP, SASS, MySql, AngularJS, Bootstrap.
 
 This App are running on <http://classified.leovidal.es>
 
