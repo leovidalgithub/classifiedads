@@ -3,7 +3,7 @@
 PHP Classified Ads App
 ![alt text][logo]
 
-[logo]: https://github.com/leovidalgithub/mehran/blob/master/app/images/1200pxijijogo_2019.svg.png "CF ADS"
+[logo]: https://github.com/leovidalgithub/classifiedads/blob/master/app/images/1200pxijijogo_2019.svg.png "CF ADS"
 
 ---
 
